@@ -1,18 +1,81 @@
 {
-  "usuarios": [
+  "filmes": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "id": 1,
+      "titulo": "Barbie (Live Action)",
+      "ano": 2023,
+      "genero": "Fantasia",
+      "nota": 7.5,
+      "imagem": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "sinopse": "Barbie vive uma crise existencial ao sair da Barbielândia.",
+      "elenco": "Margot Robbie, Ryan Gosling",
+      "pais": "EUA"
     },
     {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "id": 2,
+      "titulo": "A Forma da Água",
+      "ano": 2017,
+      "genero": "Fantasia",
+      "nota": 8.0,
+      "imagem": "https://image.tmdb.org/t/p/w500/q8FqfG3vFd5eEOBOKN3K3AUbE6x.jpg",
+      "sinopse": "Uma zeladora muda se apaixona por uma criatura aquática.",
+      "elenco": "Sally Hawkins, Doug Jones",
+      "pais": "EUA"
+    },
+    {
+      "id": 3,
+      "titulo": "Tudo em Todo Lugar ao Mesmo Tempo",
+      "ano": 2022,
+      "genero": "Ação",
+      "nota": 8.4,
+      "imagem": "https://image.tmdb.org/t/p/w500/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+      "sinopse": "Uma mulher comum é arrastada para uma aventura interdimensional.",
+      "elenco": "Michelle Yeoh, Ke Huy Quan",
+      "pais": "EUA"
+    },
+    {
+      "id": 4,
+      "titulo": "Duna: Parte Dois",
+      "ano": 2024,
+      "genero": "Ficção Científica",
+      "nota": 8.7,
+      "imagem": "https://image.tmdb.org/t/p/w500/8uUU2pxm6B4jnWyNYHb8q6em8R6.jpg",
+      "sinopse": "Paul Atreides une forças com os Fremen para vingar sua família.",
+      "elenco": "Timothée Chalamet, Zendaya",
+      "pais": "EUA"
+    },
+    {
+      "id": 5,
+      "titulo": "Oppenheimer",
+      "ano": 2023,
+      "genero": "Drama, Histórico",
+      "nota": 8.6,
+      "imagem": "https://image.tmdb.org/t/p/w500/ptpr0kGAckfQkJeJIt8st5dglvd.jpg",
+      "sinopse": "A história de J. Robert Oppenheimer e a criação da bomba atômica.",
+      "elenco": "Cillian Murphy, Emily Blunt",
+      "pais": "EUA"
+    },
+    {
+      "id": 6,
+      "titulo": "Interestelar",
+      "ano": 2014,
+      "genero": "Ficção Científica, Drama",
+      "nota": 8.6,
+      "imagem": "https://image.tmdb.org/t/p/w500/nCbkOyOMTePnpBUiMhTdx8xC6MB.jpg",
+      "sinopse": "Uma equipe de exploradores viaja por um buraco de minhoca para salvar a humanidade.",
+      "elenco": "Matthew McConaughey, Anne Hathaway",
+      "pais": "EUA"
+    },
+    {
+      "id": 7,
+      "titulo": "Avatar: O Caminho da Água",
+      "ano": 2022,
+      "genero": "Aventura, Fantasia",
+      "nota": 7.8,
+      "imagem": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "sinopse": "Jake Sully vive com sua nova família no planeta Pandora.",
+      "elenco": "Sam Worthington, Zoe Saldaña",
+      "pais": "EUA"
     }
   ]
 }
