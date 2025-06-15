@@ -17,7 +17,7 @@
       "ano": 2017,
       "genero": "Fantasia",
       "nota": 8.0,
-      "imagem": "https://image.tmdb.org/t/p/w500/q8FqfG3vFd5eEOBOKN3K3AUbE6x.jpg",
+      "imagem": "./img/formaDaAgua.png",
       "sinopse": "Uma zeladora muda se apaixona por uma criatura aquática.",
       "elenco": "Sally Hawkins, Doug Jones",
       "pais": "EUA"
@@ -39,7 +39,7 @@
       "ano": 2024,
       "genero": "Ficção Científica",
       "nota": 8.7,
-      "imagem": "https://image.tmdb.org/t/p/w500/8uUU2pxm6B4jnWyNYHb8q6em8R6.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w1280/obhGsx4PE9OzsVGtIfoLAIIWGNb.jpg",
       "sinopse": "Paul Atreides une forças com os Fremen para vingar sua família.",
       "elenco": "Timothée Chalamet, Zendaya",
       "pais": "EUA"
@@ -61,7 +61,7 @@
       "ano": 2014,
       "genero": "Ficção Científica, Drama",
       "nota": 8.6,
-      "imagem": "https://image.tmdb.org/t/p/w500/nCbkOyOMTePnpBUiMhTdx8xC6MB.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w1280/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg",
       "sinopse": "Uma equipe de exploradores viaja por um buraco de minhoca para salvar a humanidade.",
       "elenco": "Matthew McConaughey, Anne Hathaway",
       "pais": "EUA"
@@ -78,4 +78,7 @@
       "pais": "EUA"
     }
   ]
+
+    
+  
 }
